@@ -1,6 +1,5 @@
-Exposições de biblioteca [BibExpo]
-Um sistema web simplificado para que alunos e professores, juntamente com os 
-bibliotecarios da escola ou da cidade, podem organizar exposições literárias.
+#Biblioteca Alvorada
+Projeto feito com Laravel com um intuito de construir um sistema web para ser utilizado em bibliotecas e possibilitar o agendamento de exposições literárias organizada por professores.
+**Observação: este projeto está em andamento em foca na funcionalidade de cadastro de exposições literárias** 
 
-Projeto em andamento.
 Equipe: Samantha, Mateus, PJ e Luan
