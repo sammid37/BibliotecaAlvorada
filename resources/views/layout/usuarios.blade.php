@@ -6,5 +6,6 @@
   </head>
   <body>
     <p>Em construção</p>
+    <footer>Coisas do rodapé aqui</footer>
   </body>
 </html>
